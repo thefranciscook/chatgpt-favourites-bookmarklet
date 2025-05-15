@@ -60,7 +60,7 @@ MIT
 
 ## Credits
 
-Created by [Your Name] (based on a long-form, iterative ChatGPT/product design discussion).
+Created by Francis Szakacs.
 
 ---
 
